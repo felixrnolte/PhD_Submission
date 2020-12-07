@@ -1,0 +1,7 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'continue', 'communication')], [['continue', 'qualified lead', 'input', 'AND'], ['continue', 'lead information', 'output', 'AND'], ['continue', 'account information', 'output', 'AND'], ['continue', 'lead', 'output', 'AND'], ['continue', 'lead', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'create', 'quotation')], [['create', 'lead information', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'create', 'account')], [['create', 'account information', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'send', 'quotation')], [['send', 'created quotation', 'input', 'AND'], ['send', 'account', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'receive', 'answer  ')], [['receive', 'customer', 'input', 'AND'], ['receive', 'received order', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'generate', 'order')], [], 'successor']",[],[],[]

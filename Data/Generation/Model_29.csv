@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['send to customer', 'processing']","[['specified case', 'AND', 'defined']]","[['sent customer', 'AND', 'generated']]",Customer Service Representative
+2,"['wait', 'processing']","[['None', 'AND', 'defined']]","[['negative response', 'XOR', 'defined'], ['positive response', 'XOR', 'defined']]",we
+3,"['update case details', 'processing']","[['negative response', 'AND', 'defined']]","[['closing case', 'AND', 'defined']]",
+4,"['complete case', 'processing']","[['positive response', 'AND', 'defined']]","[['completed case', 'AND', 'generated']]",

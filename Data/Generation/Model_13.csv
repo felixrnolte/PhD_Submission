@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['compare inventory level and policy and policy', 'processing']","[['processed sales order', 'AND', 'defined'], ['reserved product', 'AND', 'defined'], ['adjusted policy', 'AND', 'defined']]","[['inventory', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['inventory', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['inventory', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['safety stock', 'AND', 'defined']]",we
+2,"['notify responsible users', 'processing']","[['inventory', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['safety stock', 'AND', 'defined']]","[['notified responsible users', 'AND', 'generated']]",we
+3,"['adjust replenishment list', 'processing']","[['inventory', 'AND', 'defined'], ['safety stock', 'AND', 'defined'], ['safety stock', 'AND', 'defined']]","[['adjusted replenishment list', 'AND', 'generated']]",we

@@ -1,0 +1,6 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['visit provider website', 'processing']","[['provider website', 'AND', 'defined']]","[['visited provider website', 'AND', 'generated']]",provider
+2,"['upload shipping label', 'processing']","[['shipping label', 'AND', 'defined']]","[['uplound shipping label', 'AND', 'generated']]",provider
+2,"['enter tracking number', 'processing']","[['tracking number', 'AND', 'defined']]","[['entered tracking number', 'AND', 'generated']]",
+3,"['book pickup', 'processing']","[['entered tracking number', 'AND', 'generated']]","[['booked pickup', 'AND', 'generated']]",
+4,"['complete shipment', 'processing']","[['booked pickup', 'AND', 'generated']]","[['completed shipment', 'AND', 'generated']]",

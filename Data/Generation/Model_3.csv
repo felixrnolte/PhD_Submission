@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['visit website', 'processing']","[['other providers', 'AND', 'defined'], ['shipping label', 'AND', 'defined']]","[['shipping label', 'AND', 'defined']]",We
+2,"['upload shipping label', 'processing']","[['shipping label', 'AND', 'defined']]","[['uplound shipping label', 'AND', 'generated']]",We
+3,"['enter tracking number', 'processing']","[['tracking number', 'AND', 'defined']]","[['booked pickup', 'AND', 'defined']]",warehouse operator
+4,"['complete shipment', 'processing']","[['shipment', 'AND', 'defined']]","[['completed shipment', 'AND', 'generated']]",

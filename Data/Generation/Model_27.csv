@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['specify problem', 'processing']","[['configuration need', 'AND', 'defined']]","[['predefined Problem', 'XOR', 'defined'], ['not predefined Problem', 'XOR', 'generated']]",
+2,"['select Use Case', 'processing']","[['predefined Problem', 'AND', 'defined']]","[['constrained problem', 'AND', 'defined']]",

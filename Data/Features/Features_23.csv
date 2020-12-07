@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'back', 'database')], [], 'successor']",[],[],[]
+"[[('', 'check', 'tables')], [['check', 'database backup', 'input', 'AND'], ['check', 'new records', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'check', 'CRM system')], [['check', 'new records', 'output', 'AND']], 'successor']",[],"['before', 'check CRM system', 'no new records', 1]",[]
+"[[('we', 'register', 'accounts and customers')], [], 'successor']",[],"['before', 'register accounts and customers', 'new records', 1]",[]

@@ -1,0 +1,8 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['open list of open payments', 'processing']","[['booked incoming invoice', 'AND', 'defined']]","[['opened list of open payments', 'AND', 'generated']]",we
+2,"['filter list of open payments', 'processing']","[['list of open payments', 'AND', 'defined']]","[['filtered list of open payments', 'AND', 'generated']]",we
+3,"['delete entries', 'processing']","[['paid entries', 'defined', 'AND']]","[['filtered and clean list of open payments', 'AND', 'defined']]",we
+4,"['commit payments', 'processing']","[['payments', 'AND', 'defined']]","[['committed payments', 'AND', 'generated']]",we
+5,"['export payment file', 'processing']","[['committed payments', 'AND', 'defined']]","[['exported payment file', 'AND', 'generated']]",we
+6,"['import payments file', 'processing']","[['payments file', 'AND', 'defined']]","[['imported payments file', 'AND', 'generated']]",we
+7,"['conduct bank transfer', 'processing']","[['imported payments file', 'AND', 'defined']]","[['paid invoice', 'AND', 'defined']]",we

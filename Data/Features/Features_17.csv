@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'plan', 'demand')], [['plan', 'purchase requisition', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'identify', 'potential suppliers')], [['identify', 'purchase requisition', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'create', 'inquiry')], [], 'successor']",[],[],[]

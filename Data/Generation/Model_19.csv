@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['develop product concepts', 'processing']","[['product requirements', 'AND', 'defined'], ['specifications', 'AND', 'defined']]","[['developed product concepts', 'AND', 'generated']]",
+2,"['analyze concepts', 'processing']","[['concepts', 'AND', 'defined']]","[['analyze/outbidden concepts', 'AND', 'generated']]",
+3,"['select best architectures', 'processing']","[['analyzed concepts', 'AND', 'defined']]","[['selected best architectures', 'AND', 'generated']]",
+4,"['synthesize selected architectures', 'processing']","[['selected architectures', 'AND', 'defined']]","[['concept', 'AND', 'defined']]",

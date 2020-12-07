@@ -1,0 +1,3 @@
+Core,Adverbial,Conditional,Relative
+"[[('We', 'validate', 'complete system')], [['validate', 'validated configuration', 'output', 'AND'], ['validate', 'additional request', 'output', 'AND']], 'successor']",[],[],[]
+"[[('We', 'decide', 'None')], [['decide', 'validated configuration', 'input', 'AND'], ['decide', 'exported configuration', 'output', 'AND'], ['decide', 'not - exported configuration', 'output', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['enter order', 'processing']","[['accepted offer', 'AND', 'defined']]","[['entered order', 'AND', 'generated']]",
+2,"['send items', 'processing']","[['new order', 'AND', 'defined']]","[['sent items', 'AND', 'generated']]",

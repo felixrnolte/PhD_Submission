@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check insurance limit', 'processing']","[['selected product', 'AND', 'defined']]","[['reached limit', 'AND', 'defined']]",we
+2,"['show warning', 'processing']","[['reached limit', 'AND', 'defined']]","[['warning message', 'AND', 'defined']]",we
+3,"['update parcel', 'processing']","[['not reached limit', 'AND', 'defined']]","[['added products', 'AND', 'defined'], ['more product', 'AND', 'defined']]",we

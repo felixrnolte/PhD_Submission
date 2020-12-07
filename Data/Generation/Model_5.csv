@@ -1,0 +1,7 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['get we', 'processing']","[['we', 'AND', 'defined']]","[['got we', 'AND', 'generated']]",
+2,"['select specific service', 'processing']","[['retrieved capabilities', 'AND', 'defined']]","[['selected specific service', 'AND', 'generated']]",warehouse operator
+3,"['book pickup', 'processing']","[['pickup', 'AND', 'defined']]","[['booked pickup', 'AND', 'generated']]",he
+4,"['download shipping label', 'processing']","[['booked pickup', 'AND', 'defined']]","[['downloaded shipping label', 'AND', 'generated']]",he
+5,"['print label', 'processing']","[['label', 'AND', 'defined']]","[['printed label', 'AND', 'generated']]",he
+6,"['attach label', 'processing']","[['label', 'AND', 'defined']]","[['ready package', 'AND', 'defined'], ['ready package', 'AND', 'defined']]",

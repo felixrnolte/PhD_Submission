@@ -1,0 +1,7 @@
+Core,Adverbial,Conditional,Relative
+"['From the qualified lead, we continue the communication for the lead information and the account information from the lead.']",[],[],[]
+"['From the lead information, we create a quotation.']",[],[],[]
+"['From the account information, we create an account.']",[],[],[]
+"['With the created quotation and created account, we send the quotation.']",[],[],[]
+['Then we receive an answer from the customer for the received order.'],[],[],[]
+['Then we generate the order.'],[],[],[]

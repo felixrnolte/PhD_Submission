@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check availability of data', 'processing']","[['account information of the lead', 'AND', 'defined']]","[['  data', 'XOR', 'defined'], ['available data', 'XOR', 'defined']]",we
+2,"['obtain account information of lead', 'processing']","[['  data', 'AND', 'defined']]","[['obtained account information of lead', 'AND', 'generated']]",
+3,"['fill', 'processing']","[['available data', 'AND', 'defined']]","[['filled None', 'AND', 'generated']]",account data
+4,"['fill account data', 'processing']","[['either the available data', 'AND', 'defined'], ['obtained data', 'AND', 'defined']]","[['created account', 'AND', 'defined']]",

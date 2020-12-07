@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['set safety stock', 'processing']","[['required replenishment policy', 'AND', 'defined']]","[['set safety stock', 'AND', 'generated']]",we
+2,"['set MOQ', 'processing']","[['MOQ', 'AND', 'defined']]","[['set MOQ', 'AND', 'generated']]",we
+3,"['set lot size', 'processing']","[['lot size', 'AND', 'defined']]","[['newly set replenishment policy', 'AND', 'defined']]",we

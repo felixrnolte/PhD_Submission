@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('operator performs', 'pick', 'None'), ('warehouse operator', 'perform', 'None')], [['perform', 'created loan order', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'check', 'due date')], [['check', 'shipped products', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'send', 'notification')], [], 'successor']",[],"['before', 'send notification', ' delivery', 1]",[]

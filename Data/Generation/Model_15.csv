@@ -1,0 +1,7 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['continue communication', 'processing']","[['qualified lead', 'AND', 'defined'], ['lead', 'AND', 'defined']]","[['lead information', 'AND', 'defined'], ['account information', 'AND', 'defined'], ['lead', 'AND', 'defined']]",we
+2,"['create quotation', 'creating']","[['lead information', 'AND', 'defined']]","[['quotation', 'AND', 'defined']]",we
+3,"['create account', 'creating']","[['account information', 'AND', 'defined']]","[['account', 'AND', 'defined']]",we
+4,"['send quotation', 'processing']","[['created quotation', 'AND', 'defined'], ['account', 'AND', 'defined']]","[['sent quotation', 'AND', 'generated']]",we
+5,"['receive answer  ', 'processing']","[['customer', 'AND', 'defined']]","[['received order', 'AND', 'defined']]",we
+6,"['generate order', 'creating']","[['order to generate', 'AND', 'generated']]","[['order', 'AND', 'defined']]",we

@@ -1,0 +1,3 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'specify', 'problem')], [['specify', 'configuration need', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'select', 'Use Case')], [['select', 'constrained problem', 'output', 'AND']], 'successor']",[],"['before', 'select Use Case', 'predefined Problem', 0]",[]

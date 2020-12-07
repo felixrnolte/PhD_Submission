@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check', 'processing']","[['sent', 'AND', 'defined']]","[['recent identified activity', 'XOR', 'defined'], ['no recent identified activity', 'XOR', 'defined']]",lead activities
+2,"['qualify lead', 'processing']","[['recent identified activity', 'AND', 'defined']]","[['qualified lead', 'AND', 'generated']]",we
+3,"['disqualify lead', 'processing']","[['no recent identified activity', 'AND', 'defined']]","[['disqualified lead', 'AND', 'generated']]",we

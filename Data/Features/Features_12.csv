@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('sales agent', 'search', 'loan orders')], [], 'successor']",[],[],[]
+"[[('sales agent', 'transform', 'loan order')], [['transform', 'selected loan order', 'input', 'AND'], ['transform', 'sales order', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'search', 'None')], [['search', 'transformed sales order', 'input', 'AND'], ['search', 'new sales order', 'output', 'AND']], 'successor']",[],[],[]
+"[[('sales agent', 'grab', 'order products')], [['grab', 'selected sales order', 'input', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['identify sources of supply', 'processing']","[['requisition', 'AND', 'defined'], ['supplier catalog', 'AND', 'defined']]","[['identified sources of supply', 'AND', 'generated']]",
+2,"['create inquiry', 'creating']","[['list of potential suppliers', 'AND', 'defined']]","[['inquiry', 'AND', 'defined']]",

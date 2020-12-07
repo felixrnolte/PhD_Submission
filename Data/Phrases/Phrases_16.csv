@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"['With a ready shipment, we select the shipping provider, for a regular package or an express package.']",[],[],[]
+"['With a regular express package, we request the shipment creation.']",[],[],[]
+"['Then, we check the response.']",[],[],[]
+"[', we retrieve the shipping label.']",[],['If the response is positive'],[]

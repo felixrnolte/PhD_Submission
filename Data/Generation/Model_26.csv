@@ -1,0 +1,6 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check order', 'processing']","[['new or an existing order', 'AND', 'defined']]","[['product list', 'AND', 'defined']]",we
+2,"['collect materials', 'processing']","[['materials', 'AND', 'defined']]","[['collected materials', 'AND', 'generated']]",we
+3,"['build table', 'creating']","[['collected materials', 'AND', 'defined']]","[['table', 'AND', 'defined']]",we
+4,"['polish table', 'processing']","[['table', 'AND', 'defined']]","[['polished table', 'AND', 'generated']]",
+5,"['package table', 'processing']","[['table', 'AND', 'defined']]","[['express delivery', 'AND', 'defined'], ['regular delivery', 'AND', 'defined']]",we

@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['print identified sales order', 'processing']","[['identified sales order', 'AND', 'defined']]","[['printed identified sales order', 'AND', 'generated']]",
+2,"['pick order items', 'processing']","[['order items', 'AND', 'defined']]","[['picked order items', 'AND', 'generated']]",
+3,"['prepare specific sales documentation', 'creating']","[['specific sales documentation to prepare', 'AND', 'generated']]","[['specific sales documentation', 'AND', 'defined']]",
+4,"['ship order', 'processing']","[['order', 'AND', 'defined']]","[['send invoice', 'AND', 'defined'], ['order completion', 'AND', 'defined']]",

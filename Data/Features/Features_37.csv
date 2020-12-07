@@ -1,0 +1,7 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'check', 'existing lead list')], [['check', 'new standard lead', 'input', 'AND'], ['check', 'either existing leads', 'output', 'AND'], ['check', 'new leads', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'check', 'existing lead')], [['check', 'existing lead', 'input', 'AND'], ['check', 'required update', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'update', 'information')], [['update', 'updated lead', 'output', 'AND']], 'successor']",[],"['before', 'update information', 'required update', 1]",[]
+"[[('we', 'save', 'updated lead')], [['save', 'updated lead', 'input', 'AND']], 'successor']","[[('', 'create', 'lead')], ([], []), '']",[],[]
+"[[('we', 'identify', 'lead owner')], [['identify', 'new lead', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'create', 'lead')], [], 'successor']","[[('', 'create', 'lead')], ([], []), '']",[],[]

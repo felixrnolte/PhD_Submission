@@ -1,0 +1,7 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['create invoice', 'creating']","[['invoice to create', 'AND', 'generated']]","[['invoice', 'AND', 'defined']]",accounting employee
+1,"['check invoice', 'processing']","[['invoice', 'AND', 'defined']]","[['checked invoice', 'AND', 'generated']]",accounting employee
+2,"['send invoice', 'processing']","[['checked invoice', 'AND', 'generated']]","[['transferred money', 'XOR', 'defined'], ['transferred money', 'XOR', 'defined']]",
+3,"['check transaction status', 'processing']","[['transferred money', 'XOR', 'defined'], ['transferred money', 'XOR', 'defined']]","[['checked transaction status', 'AND', 'generated']]",employee
+4,"['check money', 'processing']","[['transferred money', 'AND', 'defined']]","[['checked money', 'AND', 'generated']]",
+5,"['send reminder', 'processing']","[['transferred money', 'AND', 'defined']]","[['sent reminder', 'AND', 'generated']]",

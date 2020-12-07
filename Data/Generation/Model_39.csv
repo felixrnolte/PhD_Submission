@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['prepare text', 'creating']","[['either a rejected press release', 'AND', 'defined'], ['identified marketing potential', 'AND', 'defined']]","[['press release', 'AND', 'defined']]",we
+2,"['prepare landing page', 'creating']","[['either a rejected press release', 'AND', 'defined'], ['identified marketing potential', 'AND', 'defined']]","[['press release', 'AND', 'defined']]",we
+3,"['prepare pictures', 'creating']","[['either a rejected press release', 'AND', 'defined'], ['identified marketing potential', 'AND', 'defined']]","[['pictures', 'AND', 'defined']]",we
+4,"['add tags', 'processing']","[['prepared pictures', 'AND', 'defined'], ['pictures', 'AND', 'defined'], ['press release', 'AND', 'defined']]","[['press release', 'AND', 'defined']]",we

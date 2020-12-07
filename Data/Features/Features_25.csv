@@ -1,0 +1,8 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'select', 'product type')], [['select', 'new addition', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'select', 'attribute')], [['select', 'selected product type', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'select', 'attribute value  ')], [['select', 'selected attribute', 'input', 'AND'], ['select', 'attribute value details', 'output', 'AND']], 'successor']",[],[],[]
+"[[], [], 'successor']",[],[],[]
+"[[('we', 'accept', 'attribute value')], [['accept', 'potentially complete system', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'select', 'product')], [['select', 'selected product type', 'input', 'AND'], ['select', 'product details', 'output', 'AND'], ['select', 'product', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'accept', 'product')], [['accept', 'potentially complete system', 'output', 'AND']], 'successor']",[],[],[]

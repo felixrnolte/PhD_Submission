@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'select', 'shipping provider')], [['select', 'ready shipment', 'input', 'AND'], ['select', 'regular package', 'output', 'AND'], ['select', 'express package', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'request', 'shipment creation')], [['request', 'regular express package', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'check', 'response')], [], 'successor']",[],[],[]
+"[[('we', 'retrieve', 'shipping label')], [], 'successor']",[],"['before', 'retrieve shipping label', 'positive response', 2]",[]

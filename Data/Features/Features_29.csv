@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('Customer Service Representative', 'send', 'to customer')], [['send', 'specified case', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'wait', 'None')], [['wait', 'response', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'update', 'case details')], [['update', 'closing case', 'output', 'AND']], 'successor']",[],"['before', 'update case details', 'negative response', 1]",[]
+"[[('', 'complete', 'case')], [], 'successor']",[],"['before', 'complete case', 'positive response', 1]",[]

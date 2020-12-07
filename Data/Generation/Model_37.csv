@@ -1,0 +1,7 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check existing lead list', 'processing']","[['new standard lead', 'AND', 'defined']]","[['either existing leads', 'AND', 'defined'], ['new leads', 'AND', 'defined']]",we
+2,"['check existing lead', 'processing']","[['existing lead', 'AND', 'defined']]","[['required update', 'XOR', 'defined'], ['obviate update', 'XOR', 'generated']]",we
+3,"['update information', 'processing']","[['required update', 'AND', 'defined']]","[['updated lead', 'AND', 'defined']]",we
+4,"['save updated lead', 'processing']","[['updated lead', 'AND', 'defined']]","[['saved updated lead', 'AND', 'generated']]",we
+5,"['identify lead owner', 'processing']","[['new lead', 'AND', 'defined']]","[['identified lead owner', 'AND', 'generated']]",we
+6,"['create lead', 'creating']","[['lead to create', 'AND', 'generated']]","[['lead', 'AND', 'defined']]",we

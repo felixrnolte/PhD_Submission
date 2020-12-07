@@ -1,0 +1,6 @@
+Core,Adverbial,Conditional,Relative
+"[[('accounting employee', 'create', 'invoice')], [], 'successor']",[],[],[]
+"[[('accounting employee', 'check', 'invoice')], [], 'successor']","[[('', 'send', 'invoice')], (['to the customer'], []), 'successor']",[],[]
+"[[('employee', 'check', 'transaction status')], [], 'successor']",[],[],[]
+"[[('', 'check', 'money')], [], 'successor']",[],"['before', 'check money', 'transferred money', 2]",[]
+"[[('', 'send', 'reminder')], [], 'successor']",[],"['before', 'send reminder', 'transferred money', 2]",[]

@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"['Every morning, the database is backed up.']",[],[],[]
+"['Based on the database backup, the tables are checked for new records.']",[],[],[]
+"[', we check the CRM system for new records.']",[],['If there are no new records'],[]
+"[', we register all accounts and customers.']",[],['If new records exist'],[]

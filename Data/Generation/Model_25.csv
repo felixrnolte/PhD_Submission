@@ -1,0 +1,8 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['select product type', 'processing']","[['new addition', 'AND', 'defined']]","[['selected product type', 'AND', 'generated']]",we
+2,"['select attribute', 'processing']","[['selected product type', 'AND', 'defined']]","[['selected attribute', 'AND', 'generated']]",we
+3,"['select attribute value  ', 'processing']","[['selected attribute', 'AND', 'defined']]","[['attribute value details', 'AND', 'defined']]",we
+4,"['select attribute value  ', 'processing']","[['selected attribute', 'AND', 'defined']]","[['attribute value details', 'AND', 'defined']]",we
+5,"['accept attribute value', 'processing']","[['attribute value', 'AND', 'defined']]","[['potentially complete system', 'AND', 'defined']]",we
+6,"['select product', 'processing']","[['selected product type', 'AND', 'defined']]","[['product details', 'AND', 'defined'], ['product', 'AND', 'defined']]",we
+7,"['accept product', 'processing']","[['product', 'AND', 'defined']]","[['potentially complete system', 'AND', 'defined']]",we

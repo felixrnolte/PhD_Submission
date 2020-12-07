@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['validate complete system', 'processing']","[['complete system', 'AND', 'defined']]","[['validated configuration', 'AND', 'defined'], ['additional request', 'AND', 'defined']]",We
+2,"['decide', 'processing']","[['validated configuration', 'AND', 'defined']]","[['exported configuration', 'AND', 'defined'], ['not - exported configuration', 'AND', 'defined']]",We

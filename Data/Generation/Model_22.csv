@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['polish leather', 'processing']","[['leather', 'AND', 'defined']]","[['polished leather', 'AND', 'generated']]",we
+2,"['transport polished leather', 'processing']","[['polished leather', 'AND', 'defined']]","[['transported polished leather', 'AND', 'generated']]",
+3,"['process processable leather', 'processing']","[['processable leather', 'AND', 'defined']]","[['everyday products', 'AND', 'defined']]",
+4,"['prepare products', 'creating']","[['products to prepare', 'AND', 'generated']]","[['shipment', 'AND', 'defined']]",we

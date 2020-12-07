@@ -1,0 +1,3 @@
+Core,Adverbial,Conditional,Relative
+"[[('Project Manager', 'select', 'activities')], [['select', 'scheduling tool', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'build', 'project schedule')], [['build', 'loaded scheduling tool', 'input', 'AND']], 'successor']",[],[],[]

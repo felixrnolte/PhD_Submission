@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['plan demand', 'processing']","[['demand', 'AND', 'defined']]","[['purchase requisition', 'AND', 'defined']]",
+2,"['identify potential suppliers', 'processing']","[['purchase requisition', 'AND', 'defined']]","[['identified potential suppliers', 'AND', 'generated']]",
+3,"['create inquiry', 'creating']","[['inquiry to create', 'AND', 'generated']]","[['inquiry', 'AND', 'defined']]",we

@@ -1,0 +1,3 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'search', 'sales agent')], [['search', 'either a customer request', 'input', 'AND'], ['search', ""sales agent 's decision"", 'input', 'AND'], ['search', 'loan order', 'output', 'AND']], 'successor']",[],[],[]
+"[[('sales agent', 'change', 'return date')], [['change', 'loan order', 'input', 'AND'], ['change', 'extended loan order', 'output', 'AND']], 'successor']",[],[],[]

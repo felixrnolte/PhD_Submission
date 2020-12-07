@@ -1,0 +1,9 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['book received invoice', 'processing']","[['received invoice', 'AND', 'defined']]","[['booked received invoice', 'AND', 'generated']]",
+2,"['pay incoming booked invoice', 'processing']","[['incoming booked invoice', 'AND', 'defined']]","[['paid incoming booked invoice', 'AND', 'generated']]",
+3,"['book invoice accounts', 'processing']","[['invoice', 'AND', 'defined']]","[['booked invoice accounts', 'AND', 'generated']]",accountant
+4,"['check outgoing booked invoice', 'processing']","[['outgoing booked invoice', 'AND', 'defined']]","[['payment', 'AND', 'defined'], ['either a payment reminder', 'AND', 'defined'], ['payment confirmation', 'AND', 'defined']]",
+5,"['book due salaries', 'processing']","[['due salaries', 'AND', 'defined']]","[['booked due salaries', 'AND', 'generated']]",
+6,"['pay salaries', 'processing']","[['salaries', 'AND', 'defined']]","[['paid salaries', 'AND', 'generated']]",accountant
+7,"['book bank statement', 'processing']","[['paid invoice', 'AND', 'defined'], ['received payment', 'AND', 'defined'], ['paid salaries', 'AND', 'defined'], ['paid invoice', 'AND', 'defined'], ['received payment', 'AND', 'defined'], ['paid salaries', 'AND', 'defined'], ['paid invoice', 'AND', 'defined'], ['received payment', 'AND', 'defined'], ['paid salaries', 'AND', 'defined']]","[['booked bank statement', 'AND', 'generated']]",accountant
+8,"['declare monthly taxes', 'processing']","[['monthly taxes', 'AND', 'defined']]","[['declared monthly taxes', 'AND', 'generated']]",accountant

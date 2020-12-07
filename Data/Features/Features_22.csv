@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'polish', 'leather')], [], 'successor']",[],[],[]
+"[[('', 'transport', 'polished leather')], [], 'successor']",[],[],[]
+"[[('', 'process', 'processable leather')], [['process', 'everyday products', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'prepare', 'products')], [['prepare', 'shipment', 'output', 'AND']], 'successor']",[],[],[]

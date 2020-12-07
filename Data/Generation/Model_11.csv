@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['search sales agent', 'processing']","[['either a customer request', 'AND', 'defined'], [""sales agent 's decision"", 'AND', 'defined']]","[['loan order', 'AND', 'defined']]",
+2,"['change return date', 'processing']","[['loan order', 'AND', 'defined']]","[['extended loan order', 'AND', 'defined']]",sales agent

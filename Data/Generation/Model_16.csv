@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['select shipping provider', 'processing']","[['ready shipment', 'AND', 'defined']]","[['regular package', 'AND', 'defined'], ['express package', 'AND', 'defined']]",we
+2,"['request shipment creation', 'processing']","[['regular express package', 'AND', 'defined']]","[['requested shipment creation', 'AND', 'generated']]",we
+3,"['check response', 'processing']","[['response', 'AND', 'defined']]","[['positive response', 'XOR', 'defined'], ['negative response', 'XOR', 'generated']]",we
+4,"['retrieve shipping label', 'processing']","[['positive response', 'AND', 'defined']]","[['retrieved shipping label', 'AND', 'generated']]",we

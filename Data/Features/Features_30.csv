@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'draft', 'schedule')], [['draft', 'calendar update', 'output', 'AND']], 'successor']",[],[],[]
+"[[('support officer', 'check', 'dates')], [['check', 'updated calendar', 'input', 'AND'], ['check', 'modification suggestions', 'output', 'AND']], 'successor']",[],[],[]
+"[[('coordination unit', 'recheck', 'dates')], [['recheck', 'final schedule', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'send', 'final schedule')], [['send', 'scheduled calendar year', 'output', 'AND']], 'successor']",[],[],[]

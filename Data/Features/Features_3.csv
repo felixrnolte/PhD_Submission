@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('We', 'visit', 'website')], [['visit', 'other providers', 'input', 'AND'], ['visit', 'shipping label', 'input', 'AND'], ['visit', 'shipping label', 'output', 'AND']], 'successor']",[],[],[]
+"[[('We', 'upload', 'shipping label')], [], 'successor']",[],[],[]
+"[[('warehouse operator', 'enter', 'tracking number')], [['enter', 'booked pickup', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'complete', 'shipment')], [], 'successor']",[],[],[]

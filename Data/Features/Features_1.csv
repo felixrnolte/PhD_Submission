@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'prepare', 'offer')], [['prepare', 'product interest', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'accept', 'offer'), ('offer', 'decline', 'offer')], [], 'successor']",[],[],[]
+"[[('', 'send', 'order')], [['send', 'accepted offer', 'input', 'AND'], ['send', 'delivery', 'output', 'AND']], 'successor']",[],[],[]

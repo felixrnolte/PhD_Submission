@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['create new warehouse product', 'creating']","[['ready product order', 'AND', 'defined']]","[['existing warehouse record', 'AND', 'defined'], ['missing warehouse record', 'AND', 'defined']]",we
+2,"['add warehouse product', 'processing']","[['existing warehouse record', 'AND', 'defined']]","[['added warehouse product', 'AND', 'generated']]",we
+3,"['create new record', 'creating']","[['missing warehouse record', 'AND', 'defined']]","[['new record', 'AND', 'defined']]",we

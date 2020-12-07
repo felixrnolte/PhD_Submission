@@ -1,0 +1,6 @@
+Core,Adverbial,Conditional,Relative
+"[[('distribution clerk', 'register', 'incoming order')], [['register', 'order', 'input', 'AND'], ['register', 'open order', 'output', 'AND'], ['register', 'order', 'output', 'AND']], 'successor']",[],[],[]
+"[[('distribution clerk', 'instruct', 'printing'), ('distribution clerk', 'print', 'None')], [['instruct', 'order', 'input', 'AND']], 'successor']",[],[],[]
+"[[('distribution clerk', 'package', 'goods')], [['package', 'open order', 'input', 'AND'], ['package', 'shirts', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'send', 'packaged goods')], [['send', 'delivery', 'output', 'AND'], ['send', 'order', 'output', 'AND'], ['send', 'bill', 'output', 'AND'], ['send', 'bill', 'output', 'AND'], ['send', 'bill', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'instruct', 'invoice delivery')], [['instruct', 'order', 'input', 'AND'], ['instruct', 'delivery details', 'output', 'AND']], 'successor']",[],[],[]

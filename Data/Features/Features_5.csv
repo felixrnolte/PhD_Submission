@@ -1,0 +1,7 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'get', 'we')], [['have', 'express package', 'input', 'AND']], 'successor']",[],[],[]
+"[[('warehouse operator', 'select', 'specific service')], [['select', 'retrieved capabilities', 'input', 'AND']], 'successor']",[],[],[]
+"[[('he', 'book', 'pickup')], [], 'successor']",[],[],[]
+"[[('he', 'download', 'shipping label')], [['download', 'booked pickup', 'input', 'AND']], 'successor']",[],[],[]
+"[[('he', 'print', 'label'), ('he', 'follow', 'None')], [], 'successor']",[],[],[]
+"[[('', 'attach', 'label')], [['attach', 'ready package', 'output', 'AND'], ['attach', 'ready package', 'output', 'AND']], 'successor']",[],[],[]

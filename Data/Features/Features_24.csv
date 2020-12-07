@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'check', 'demand')], [['check', 'print order', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'order', 'shirts')], [['order', 'satisfying order', 'output', 'AND'], ['order', 'demand of shirts', 'output', 'AND']], 'successor']",[],"['before', 'order shirts', 'unsatisfiable order', 0]",[]
+"[[('', 'divide', 'None')], [['divide', 'satisfying order', 'input', 'AND'], ['divide', 'print orders', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'execute', 'print order')], [['execute', 'list of print items', 'input', 'AND'], ['execute', 'ordered shirts', 'output', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,8 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'open', 'list of open payments')], [['open', 'booked incoming invoice', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'filter', 'list of open payments')], [], 'successor']",[],[],[]
+"[[('we', 'delete', 'entries')], [['delete', 'filtered and clean list of open payments', 'output', 'AND']], 'successor']",[],[],"['before', [('we', 'delete', 'entries')], 'pay', 'entries', ([], [])]"
+"[[('we', 'commit', 'payments')], [], 'successor']",[],[],[]
+"[[('we', 'export', 'payment file')], [['export', 'committed payments', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'import', 'payments file')], [], 'successor']",[],[],[]
+"[[('we', 'conduct', 'bank transfer')], [['conduct', 'imported payments file', 'input', 'AND'], ['conduct', 'paid invoice', 'output', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['pick', 'processing']","[['None', 'AND', 'defined']]","[['picked None', 'AND', 'generated']]",operator performs
+2,"['check due date', 'processing']","[['shipped products', 'AND', 'defined']]","[['  delivery', 'XOR', 'defined'], ['not   delivery', 'XOR', 'generated']]",
+3,"['send notification', 'processing']","[['  delivery', 'AND', 'defined']]","[['sent notification', 'AND', 'generated']]",we

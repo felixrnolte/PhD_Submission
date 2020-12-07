@@ -1,0 +1,6 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check', 'processing']","[['received expense report', 'AND', 'defined']]","[['missing account', 'AND', 'defined'], ['existing account', 'AND', 'defined']]",we
+2,"['create account', 'creating']","[['missing account', 'AND', 'defined']]","[['account', 'AND', 'defined']]",we
+3,"['review report', 'processing']","[['existing account', 'AND', 'defined']]","[['rejected report', 'XOR', 'defined'], ['accepted report', 'XOR', 'defined']]",we
+4,"['send rejection notice', 'processing']","[['rejected report', 'AND', 'defined']]","[['processed expense report', 'AND', 'defined']]",we
+5,"['reimburse expenses', 'processing']","[['accepted report', 'AND', 'defined']]","[['processed expense report', 'AND', 'defined']]",we

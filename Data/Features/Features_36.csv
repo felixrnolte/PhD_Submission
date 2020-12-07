@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'print', 'identified sales order')], [], 'successor']",[],[],[]
+"[[('', 'pick', 'order items')], [], 'successor']",[],[],[]
+"[[('', 'prepare', 'specific sales documentation')], [], 'successor']",[],[],[]
+"[[('', 'ship', 'order')], [['ship', 'send invoice', 'output', 'AND'], ['ship', 'order completion', 'output', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'create', 'new warehouse product')], [['create', 'ready product order', 'input', 'AND'], ['create', 'existing warehouse record', 'output', 'AND'], ['create', 'missing warehouse record', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'add', 'warehouse product')], [['add', 'existing warehouse record', 'input', 'AND']], 'successor']","[[('', 'increase', 'qty')], ([], []), '']",[],[]
+"[[('we', 'create', 'new record')], [['create', 'missing warehouse record', 'input', 'AND']], 'successor']",[],[],[]

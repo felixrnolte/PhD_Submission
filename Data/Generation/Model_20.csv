@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['select activities', 'processing']","[['activities', 'AND', 'defined']]","[['scheduling tool', 'AND', 'defined']]",Project Manager
+2,"['build project schedule', 'creating']","[['loaded scheduling tool', 'AND', 'defined']]","[['project schedule', 'AND', 'defined']]",

@@ -1,0 +1,6 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check popularity', 'processing']","[['new series', 'AND', 'defined']]","[['popular series', 'AND', 'defined'], ['unpopular series', 'AND', 'defined']]",designer
+2,"['negotiate license', 'processing']","[['popular series', 'AND', 'defined']]","[['  agreement', 'XOR', 'defined'], ['not   agreement', 'XOR', 'generated']]",we
+3,"['sign license contract', 'processing']","[['  agreement', 'AND', 'defined']]","[['license', 'AND', 'defined'], ['new licensed product', 'AND', 'defined']]",we
+4,"['design new motives', 'creating']","[['new licensed product', 'AND', 'defined']]","[['new motives', 'AND', 'defined']]",we
+5,"['expand portfolio', 'processing']","[['new motives', 'AND', 'defined']]","[['expanded portfolio', 'AND', 'generated']]",

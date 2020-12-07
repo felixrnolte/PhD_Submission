@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['check demand', 'processing']","[['print order', 'AND', 'defined']]","[['unsatisfiable order', 'XOR', 'defined'], ['not unsatisfiable order', 'XOR', 'generated']]",
+2,"['order shirts', 'processing']","[['unsatisfiable order', 'AND', 'defined']]","[['satisfying order', 'AND', 'defined'], ['demand of shirts', 'AND', 'defined']]",
+3,"['divide', 'processing']","[['satisfying order', 'AND', 'defined']]","[['print orders', 'AND', 'defined']]",
+4,"['execute print order', 'processing']","[['list of print items', 'AND', 'defined']]","[['ordered shirts', 'AND', 'defined']]",

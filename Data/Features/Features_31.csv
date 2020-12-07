@@ -1,0 +1,6 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'check', 'None')], [['check', 'received expense report', 'input', 'AND'], ['check', 'missing account', 'output', 'AND'], ['check', 'existing account', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'create', 'account')], [['create', 'missing account', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'review', 'report')], [['review', 'existing account', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'send', 'rejection notice')], [['send', 'processed expense report', 'output', 'AND']], 'successor']",[],"['before', 'send rejection notice', 'rejected report', 2]",[]
+"[[('we', 'reimburse', 'expenses')], [['reimburse', 'processed expense report', 'output', 'AND']], 'successor']",[],"['before', 'reimburse expenses', 'accepted report', 2]",[]

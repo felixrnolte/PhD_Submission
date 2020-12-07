@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'check', 'insurance limit'), ('we', 'reach', 'limit')], [['check', 'selected product', 'input', 'AND'], ['check', 'reached limit', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'show', 'warning')], [['show', 'reached limit', 'input', 'AND'], ['show', 'warning message', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'update', 'parcel')], [['update', 'not reached limit', 'input', 'AND'], ['update', 'added products', 'output', 'AND'], ['update', 'more product', 'output', 'AND']], 'successor']",[],[],[]

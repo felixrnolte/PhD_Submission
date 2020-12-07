@@ -1,0 +1,6 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'check', 'order')], [['check', 'new or an existing order', 'input', 'AND'], ['check', 'product list', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'collect', 'materials')], [], 'successor']",[],[],[]
+"[[('we', 'build', 'table')], [['build', 'collected materials', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'polish', 'table')], [], 'successor']",[],[],[]
+"[[('we', 'package', 'table')], [['package', 'express delivery', 'output', 'AND'], ['package', 'regular delivery', 'output', 'AND']], 'successor']",[],[],[]

@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['search loan orders', 'processing']","[['loan orders', 'AND', 'defined']]","[['searched loan orders', 'AND', 'generated']]",sales agent
+2,"['transform loan order', 'processing']","[['selected loan order', 'AND', 'defined']]","[['sales order', 'AND', 'defined']]",sales agent
+3,"['search', 'processing']","[['transformed sales order', 'AND', 'defined']]","[['new sales order', 'AND', 'defined']]",we
+4,"['grab order products', 'processing']","[['selected sales order', 'AND', 'defined']]","[['grabbed order products', 'AND', 'generated']]",sales agent

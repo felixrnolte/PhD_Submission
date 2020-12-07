@@ -1,0 +1,6 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['register incoming order', 'processing']","[['order', 'AND', 'defined']]","[['open order', 'AND', 'defined'], ['order', 'AND', 'defined']]",distribution clerk
+2,"['instruct printing', 'processing']","[['order', 'AND', 'defined']]","[['instructed printing', 'AND', 'generated']]",distribution clerk
+3,"['package goods', 'processing']","[['open order', 'AND', 'defined'], ['shirts', 'AND', 'defined']]","[['packaged goods', 'AND', 'generated']]",distribution clerk
+4,"['send packaged goods', 'processing']","[['packaged goods', 'AND', 'defined']]","[['delivery', 'AND', 'defined'], ['order', 'AND', 'defined'], ['bill', 'AND', 'defined'], ['bill', 'AND', 'defined'], ['bill', 'AND', 'defined']]",
+5,"['instruct invoice delivery', 'processing']","[['order', 'AND', 'defined']]","[['delivery details', 'AND', 'defined']]",

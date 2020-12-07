@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'prepare', 'text')], [['prepare', 'either a rejected press release', 'input', 'AND'], ['prepare', 'identified marketing potential', 'input', 'AND'], ['prepare', 'press release', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'prepare', 'landing page')], [['prepare', 'either a rejected press release', 'input', 'AND'], ['prepare', 'identified marketing potential', 'input', 'AND'], ['prepare', 'press release', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'prepare', 'pictures')], [['prepare', 'either a rejected press release', 'input', 'AND'], ['prepare', 'identified marketing potential', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'add', 'tags')], [['add', 'prepared pictures', 'input', 'AND'], ['add', 'pictures', 'input', 'AND'], ['add', 'press release', 'input', 'AND'], ['add', 'press release', 'output', 'AND']], 'successor']",[],[],[]

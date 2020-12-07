@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('lead activities', 'check', 'None')], [['check', 'sent', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'qualify', 'lead')], [], 'successor']",[],"['before', 'qualify lead', 'recent identified activity', 0]",[]
+"[[('we', 'disqualify', 'lead')], [], 'successor']",[],"['before', 'disqualify lead', 'no recent identified activity', 0]",[]

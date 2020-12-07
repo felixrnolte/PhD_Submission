@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'develop', 'product concepts')], [['develop', 'product requirements', 'input', 'AND'], ['develop', 'specifications', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'analyze', 'concepts')], [], 'successor']",[],[],[]
+"[[('', 'select', 'best architectures')], [['select', 'analyzed concepts', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'synthesize', 'selected architectures')], [['synthesize', 'concept', 'output', 'AND']], 'successor']",[],[],[]

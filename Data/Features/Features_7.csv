@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'control', 'inventory responsible')], [], 'successor']",[],[],[]
+"[[('procurement officer', 'procure', 'products')], [], 'successor']",[],[],[]
+"[[('Inventory Responsible', 'send', 'EU export statistics')], [['send', 'managed inventory', 'output', 'AND']], 'successor']",[],[],[]

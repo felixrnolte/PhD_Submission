@@ -1,0 +1,3 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['generate estimated template', 'creating']","[['complete project', 'AND', 'defined']]","[['estimated template', 'AND', 'defined']]",system
+2,"['update metrics', 'processing']","[['template', 'AND', 'defined']]","[['updated project profile', 'AND', 'defined']]",

@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['back database', 'processing']","[['database', 'AND', 'defined']]","[['backed database', 'AND', 'generated']]",
+2,"['check tables', 'processing']","[['database backup', 'AND', 'defined']]","[['no new records', 'XOR', 'defined'], ['new records', 'XOR', 'defined']]",
+3,"['check CRM system', 'processing']","[['no new records', 'AND', 'defined']]","[['new records', 'AND', 'defined']]",we
+4,"['register accounts and customers', 'processing']","[['new records', 'AND', 'defined']]","[['registered accounts', 'AND', 'generated'], ['registered customers', 'AND', 'generated']]",we

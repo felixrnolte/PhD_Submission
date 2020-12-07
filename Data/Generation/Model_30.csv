@@ -1,0 +1,5 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['draft schedule', 'processing']","[['schedule', 'AND', 'defined']]","[['calendar update', 'AND', 'defined']]",we
+2,"['check dates', 'processing']","[['updated calendar', 'AND', 'defined']]","[['modification suggestions', 'AND', 'defined']]",support officer
+3,"['recheck dates', 'processing']","[['dates', 'AND', 'defined']]","[['final schedule', 'AND', 'defined']]",coordination unit
+4,"['send final schedule', 'processing']","[['final schedule', 'AND', 'defined']]","[['scheduled calendar year', 'AND', 'defined']]",

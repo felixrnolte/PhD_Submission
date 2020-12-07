@@ -1,0 +1,4 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'set', 'safety stock')], [['set', 'required replenishment policy', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'set', 'MOQ')], [], 'successor']",[],[],[]
+"[[('we', 'set', 'lot size')], [['set', 'newly set replenishment policy', 'output', 'AND']], 'successor']","[[('', 'follow', 'this')], ([], []), '']",[],[]

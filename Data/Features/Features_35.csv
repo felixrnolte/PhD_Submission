@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"[[('we', 'check', 'availability of data')], [['check', 'account information of the lead', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'obtain', 'account information of lead')], [], 'successor']",[],"['before', 'obtain account information of lead', ' data', 0]",[]
+"[[('account data', 'fill', 'None')], [], 'successor']",[],"['before', 'fill None', 'available data', 0]",[]
+"[[('', 'fill', 'account data')], [['fill', 'either the available data', 'input', 'AND'], ['fill', 'obtained data', 'input', 'AND'], ['fill', 'created account', 'output', 'AND']], 'successor']",[],[],[]

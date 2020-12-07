@@ -1,0 +1,5 @@
+Core,Adverbial,Conditional,Relative
+"['The sales agent searches the loan orders, based on a customer request.']",[],[],[]
+"['From a selected loan order, The sales agent then transforms the loan order into a sales order.']",[],[],[]
+"['Based on the transformed sales order, we search for a new sales order.']",[],[],[]
+['Then the sales agent grabs the order products from the selected sales order.'],[],[],[]

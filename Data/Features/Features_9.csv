@@ -1,0 +1,6 @@
+Core,Adverbial,Conditional,Relative
+"[[('designer', 'check', 'popularity')], [['check', 'new series', 'input', 'AND'], ['check', 'popular series', 'output', 'AND'], ['check', 'unpopular series', 'output', 'AND']], 'successor']",[],[],[]
+"[[('we', 'negotiate', 'license')], [['negotiate', 'popular series', 'input', 'AND']], 'successor']",[],[],[]
+"[[('we', 'sign', 'license contract')], [['sign', 'license', 'output', 'AND'], ['sign', 'new licensed product', 'output', 'AND']], 'successor']",[],"['before', 'sign license contract', ' agreement', 1]",[]
+"[[('we', 'design', 'new motives')], [['design', 'new licensed product', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'expand', 'portfolio')], [['expand', 'new motives', 'input', 'AND']], 'successor']",[],[],[]

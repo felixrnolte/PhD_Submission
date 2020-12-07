@@ -1,0 +1,4 @@
+ID,Activity,Inputs,Outputs,Role
+1,"['control inventory responsible', 'processing']","[['inventory', 'AND', 'defined']]","[['controlled inventory', 'AND', 'generated']]",
+2,"['procure products', 'processing']","[['products', 'AND', 'defined']]","[['procured products', 'AND', 'generated']]",procurement officer
+3,"['send EU export statistics', 'processing']","[['EU export statistics', 'AND', 'defined']]","[['managed inventory', 'AND', 'defined']]",Inventory Responsible

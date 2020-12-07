@@ -1,0 +1,9 @@
+Core,Adverbial,Conditional,Relative
+"[[('', 'book', 'received invoice')], [], 'successor']",[],[],[]
+"[[('', 'pay', 'incoming booked invoice')], [], 'successor']",[],[],[]
+"[[('accountant', 'book', 'invoice accounts')], [['book', 'invoice', 'input', 'AND']], 'successor']",[],[],[]
+"[[('', 'check', 'outgoing booked invoice')], [['check', 'payment', 'output', 'AND'], ['check', 'either a payment reminder', 'output', 'AND'], ['check', 'payment confirmation', 'output', 'AND']], 'successor']",[],[],[]
+"[[('', 'book', 'due salaries')], [], 'successor']",[],[],[]
+"[[('accountant', 'pay', 'salaries')], [], 'successor']",[],[],[]
+"[[('accountant', 'book', 'bank statement')], [['book', 'paid invoice', 'input', 'AND'], ['book', 'received payment', 'input', 'AND'], ['book', 'paid salaries', 'input', 'AND'], ['book', 'paid invoice', 'input', 'AND'], ['book', 'received payment', 'input', 'AND'], ['book', 'paid salaries', 'input', 'AND'], ['book', 'paid invoice', 'input', 'AND'], ['book', 'received payment', 'input', 'AND'], ['book', 'paid salaries', 'input', 'AND']], 'successor']",[],[],[]
+"[[('accountant', 'declare', 'monthly taxes')], [], 'successor']",[],[],[]
