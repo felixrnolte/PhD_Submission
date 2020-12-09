@@ -1,5 +1,7 @@
 # PhD Submission
 
+Repository to store the implementation described in my Ph.D. dissertation.
+
 For the execution of the Demo.py or Data_Generation.py the following preprations are required:
 
 * Check and if necessary arrange the following paths in the Data_Generation.py:
