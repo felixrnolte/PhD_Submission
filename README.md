@@ -1,4 +1,4 @@
-# PhD_Submission
+# PhD Submission
 
 For the execution of the Demo.py or Data_Generation.py the following preprations are required:
 
@@ -14,4 +14,6 @@ For the execution of the Demo.py or Data_Generation.py the following preprations
 * Add the StanfordCoreNLP model from the attached disk or download the latest StanfordCoreNLP model from https://stanfordnlp.github.io/CoreNLP/index.html#download and call it with the following command, adjusting the path accordingly. 
 
     *The StanfordCoreNLP server is started in the context of the implementation for the submitted thesis with the exemplary command:
+    ```.bash
     java -mx4g -cp "D:\Felix\Downloads\stanford-corenlp-4.2.0\\*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000
+    ```
